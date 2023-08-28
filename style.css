@@ -17,7 +17,7 @@
    text-align: center;
     justify-content: center;
     align-items: center; 
-    padding: 400px;
+    padding: 300px;
 
 }
 #First .first h1{
@@ -136,7 +136,7 @@ color: rgba(255, 255, 255, 0.7);
     font-weight: 700;
     display: block;
     max-width: 45rem;
-    margin-left: 600px;
+    margin-left: 450px;
 }
 #Fourth .fourth a{
     background-color: #1D809F;
@@ -229,7 +229,7 @@ align-items: center;
 text-align: center;
 }
 #Last img{
-padding: 80px 700px 0px 700px;
+padding: 80px 550px 0px 550px;
 }
 
 
