@@ -1,0 +1,237 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#First .first{
+   
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#First .first{
+   text-align: center;
+    justify-content: center;
+    align-items: center; 
+    padding: 400px;
+
+}
+#First .first h1{
+font-size: 120px;
+}
+#First .first h4{
+font-size: 40px;
+font-style: italic;
+font-weight: 700
+
+}
+#First .first a{
+    background-color: #1D809F;
+    text-decoration: none;
+    padding: 30px 0px;
+    color: white;
+    border-radius: 6%;
+   width: 30px;
+   display: inline-block;
+   width: 20%;
+   font-family: var(--bs-btn-font-family);
+   font-size: 20px;
+   margin-top: 60px;   
+}
+#Second{
+    background-color: white;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     text-align: center;
+}
+#Second .second h1{
+color: black;
+/* font-weight: bold; */
+font-size: 50px;
+}
+#Second .second p{
+ color: black;
+font-size: 30px;
+margin: 10px;
+}
+#Second .second a{
+background-color: #212529;
+
+    text-decoration: none;
+    padding: 30px 5px;
+    color: white;
+    border-radius: 6%;
+   width: 100px;
+   display: inline-block;
+   width: 18%;
+   font-family: var(--bs-btn-font-family);
+   font-size: 20px;
+   margin-top: 20px;
+}
+#Third{
+    background-color: #1D809F;;
+    height: 800px;
+}
+#Third .third-content{
+    height: 250px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 100px;
+}
+#Third .third-content h3{
+    color: #ecb807;
+
+}
+#Third .third-content h2{
+    color: white;
+    font-size: 60px;
+    font-family: var(--bs-body-font-family);
+
+}
+#Third .third-img{
+    float: left;
+    width: 23%;
+padding: 0px 70px;
+margin: 15px;
+}
+#Third .third-content2{
+    padding: 10px;
+    text-align: center;
+}
+#Third .third-content2 h4{
+font-size: 35px;
+color: white;
+margin: 20px;
+}
+#Third .third-content2 p{
+    font-size: 25px;
+color: rgba(255, 255, 255, 0.7);
+}
+#Third .third-img img{
+    border-radius: 100%;
+}
+#Fourth{
+    padding: 15rem 0;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url(	https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg
+    );
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+}
+#Fourth .fourth{
+    text-align: center;
+    justify-content: center;
+    align-items: center; 
+}
+#Fourth .fourth h2{
+    font-size: 80px;
+    font-weight: 700;
+    display: block;
+    max-width: 45rem;
+    margin-left: 600px;
+}
+#Fourth .fourth a{
+    background-color: #1D809F;
+    text-decoration: none;
+    padding: 30px 0px;
+    color: white;
+    border-radius: 6%;
+   width: 30px;
+   display: inline-block;
+   width: 13%;
+   font-family: var(--bs-btn-font-family);
+   font-size: 20px;
+   margin-top: 60px;
+}
+#Fifth {
+height: 1400px;
+
+}
+#Fifth .fifth-content{
+    height: 250px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 100px;
+}
+#Fifth .fifth-content h3{
+    color: #ecb807;
+font-weight: bold;
+font-size: 20px;
+}
+#Fifth .fifth-content h2{
+font-size: 70px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Sixth{
+    height: 450px;
+    background-color: #1D809F;
+
+}
+#Sixth .sixth-content{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 150px;
+}
+#Sixth .sixth-content h2{
+    color: white;
+    font-size: 45PX;
+    font-weight: 700;
+  
+}
+#Sixth .sixth-content a{
+    background-color: #212529;
+
+    text-decoration: none;
+    padding: 30px 5px;
+    color: white;
+    border-radius: 6%;
+   width: 100px;
+   display: inline-block;
+   width: 18%;
+   font-family: var(--bs-btn-font-family);
+   font-size: 20px;
+ margin: 20px 20px 100px 0px;
+
+}
+#Seventh iframe{
+    width: 100%;
+    height: 650px;
+}
+#Last{
+    height: 500px;
+}
+#Last p{
+color: #6c757d ;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+#Last img{
+padding: 80px 700px 0px 700px;
+}
+
+
+
+
